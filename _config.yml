@@ -1,0 +1,12 @@
+layout: default
+
+collections:
+  pages:
+    output: true
+    permalink: /:path
+  secret:
+    output: true
+
+url: "https://carcaraaa.github.io"
+plugins:
+  - jekyll-sitemap
