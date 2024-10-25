@@ -1,2 +1,12 @@
 include:
-- .well-known
+  - .well-known
+
+collections:
+  pages:
+    output: true
+    permalink: /:path
+  secret:
+    output: true
+
+url: "https://carcaraaa.github.io"
+
